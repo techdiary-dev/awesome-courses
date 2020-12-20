@@ -27,6 +27,7 @@
           - [Sequilize](#sequilize)
     - [Laravel](#laravel)
     - [Django](#laravel)
+    - [Flask](#flask)
     
 
 ### React
@@ -92,4 +93,7 @@
 
 
 ### Django
-> Waiting for contributor
+- [Coding For Entrepreneuers - Projects](https://www.codingforentrepreneurs.com/projects)
+
+### Flask
+- [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
