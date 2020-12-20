@@ -14,18 +14,20 @@
   - [UI Design](#ui-design)
   - [Javascript](#javascript)
   - [DevOps](#devops)
-  - Backend
-    - Nodejs
-      - Frameworks
-          - [Express](#express)
-          - [Adonis](#adonis)
-          - [Nestjs](#nestjs)
-       - ORM
-          - [Mongoose](#mongoose)
-          - [Prisma2](#prisma2)
-          - [Typeorm](#typeorm)
-          - [Sequilize](#sequilize)
+- Backend
+  - Nodejs
+    - Frameworks
+        - [Express](#express)
+        - [Adonis](#adonis)
+        - [Nestjs](#nestjs)
+     - ORM
+        - [Mongoose](#mongoose)
+        - [Prisma2](#prisma2)
+        - [Typeorm](#typeorm)
+        - [Sequilize](#sequilize)
+  - Php
     - [Laravel](#laravel)
+  - Python
     - [Django](#laravel)
     - [Flask](#flask)
     
