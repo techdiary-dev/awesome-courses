@@ -13,7 +13,7 @@
     - Angular
     - Svelte
   - UI Design
-  - Javascript
+  - [Javascript](#javascript)
   - DevOps
   - Backend
     - Nodejs
@@ -29,7 +29,10 @@
     - Laravel
     - Django
     
-    
+
+### React
+> Waiting for contributor
+
 ### Javascript
 - [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by jonas
 - [Es6.io](https://es6.io/) by wesbos
