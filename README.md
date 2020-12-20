@@ -98,7 +98,7 @@
 
 
 ### Django
-- [Coding For Entrepreneuers - Projects](https://www.codingforentrepreneurs.com/projects)
+- [Coding For Entrepreneuers - Projects](https://www.codingforentrepreneurs.com/projects) - Miguel Grinberg
 
 ### Flask
 - [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
