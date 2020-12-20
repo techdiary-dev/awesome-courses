@@ -39,7 +39,7 @@
 > Waiting for contributor
 
 ### React Native
-> Waiting for contributor
+- [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Stephen Grider
 
 ### Vue
 > Waiting for contributor
