@@ -8,7 +8,7 @@
       - [Gatsby](#gatsby)
       - [React Native](#react-native)
     - [Vue](#vue)
-      - Nuxt(#nuxt)
+    - [Nuxt](#nuxt)
     - [Angular](#angular)
     - [Svelte](#svelte)
   - [UI Design](#ui-design)
