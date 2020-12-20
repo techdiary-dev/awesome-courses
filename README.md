@@ -97,3 +97,4 @@
 
 ### Flask
 - [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
+- [The Ultimate Flask Course](https://www.udemy.com/course/the-ultimate-flask-course/) - By Anthony Herbert
