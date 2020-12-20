@@ -15,7 +15,7 @@
   - [Javascript](#javascript)
   - [DevOps](#devops)
 - Backend
-  - Nodejs
+  - [Nodejs](#nodejs)
     - Frameworks
         - [Express](#express)
         - [Adonis](#adonis)
@@ -64,9 +64,12 @@
 ### DevOps
 > Waiting for contributor
 
-### Express
-> Waiting for contributor
+### Nodejs
+- [The Node.js Master Class - No Frameworks, No NPM, No Dependencies](https://www.skillshare.com/classes/The-Node-js-Master-Class-No-Frameworks-No-NPM-No-Dependencies/187976462) - pirple.com
+- [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) - Andrew Mead
 
+### Express
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) - By jonas.io
 
 ### Adonis
 > Waiting for contributor
