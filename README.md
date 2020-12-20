@@ -6,6 +6,7 @@
     - React
       - Nextjs
       - Gatsby
+      - React Native
     - Vue
       - Vuepress
       - Nuxt
@@ -29,3 +30,8 @@
     - Django
     
     
+### Javascript
+- [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by jonas
+- [Es6.io](https://es6.io/) by wesbos
+- [beginnerjavascript.com](https://beginnerjavascript.com) by wesbos
+- 
