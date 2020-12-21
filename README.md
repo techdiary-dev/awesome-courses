@@ -62,7 +62,7 @@
 - [beginnerjavascript.com](https://beginnerjavascript.com) - wesbos
 
 ### DevOps
-> Waiting for contributor
+- [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) - Stephen Grider
 
 ### Nodejs
 - [The Node.js Master Class - No Frameworks, No NPM, No Dependencies](https://www.skillshare.com/classes/The-Node-js-Master-Class-No-Frameworks-No-NPM-No-Dependencies/187976462) - pirple.com
