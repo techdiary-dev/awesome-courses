@@ -56,7 +56,7 @@
 - [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) - Maximilian Schwarzmüller
 
 ### UI Design
-> Waiting for contributor
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - Jonas Schmedtmann
 
 ### Javascript
 - [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - jonas
