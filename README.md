@@ -51,7 +51,7 @@
 > Waiting for contributor
 
 ### Svelte
-> Waiting for contributor
+- [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) - Maximilian Schwarzmüller
 
 ### UI Design
 > Waiting for contributor
