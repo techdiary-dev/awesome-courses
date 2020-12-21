@@ -36,7 +36,9 @@
 > Waiting for contributor
 
 ### Nextjs
-> Waiting for contributor
+ - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
+ - [Introduction to Next.js](https://frontendmasters.com/courses/next-js/) - Scott Moss (Frontend Master)
+ - [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
 
 ### React Native
 - [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Stephen Grider
