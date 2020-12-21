@@ -101,6 +101,7 @@
 
 ### Django
 - [Coding For Entrepreneuers - Projects](https://www.codingforentrepreneurs.com/projects) - Miguel Grinberg
+- [Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) - Pretty Printed
 
 ### Flask
 - [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
