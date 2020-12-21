@@ -13,7 +13,7 @@
     - [Svelte](#svelte)
   - [UI Design](#ui-design)
   - [Javascript](#javascript)
-  - [DevOps](#devops)
+- [DevOps](#devops)
 - Backend
   - [Nodejs](#nodejs)
     - Frameworks
