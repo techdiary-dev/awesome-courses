@@ -33,7 +33,7 @@
     
 
 ### React
-> Waiting for contributor
+ - [React Cheatsheet](https://devhints.io/react) - Devhints
 
 ### Nextjs
  - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
