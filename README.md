@@ -67,6 +67,7 @@
 - [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - jonas
 - [Es6.io](https://es6.io/) - wesbos
 - [beginnerjavascript.com](https://beginnerjavascript.com) - wesbos
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 
 ### DevOps
 - [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) - Stephen Grider
