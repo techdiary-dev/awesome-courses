@@ -33,7 +33,7 @@
     
 
 ### React
-> Waiting for contributor
+ - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
 
 ### Nextjs
  - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
