@@ -1,5 +1,8 @@
 # Awesome Courses [![Awesome](awesome.svg)](https://github.com/techdiary-dev/awesome-courses)
 
+এই awesome তালিকায় আপনি পেয়ে যাবেন পৃথিবীর সেরা কোর্স লিস্ট গুলো আপনার পছন্দ অনুযায়ী টেকনোলজি হিসেবে । অথবা আপ্নিও শেয়ার করতে পারেন আপনার দেখা বেস্ট কোর্সটিকে এখানে ।
+
+
 ### Table of Contents
 - Front-end Development
   - Frontend Framework/library
@@ -34,6 +37,7 @@
 
 ### React
  - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
+ - [React Cheatsheet](https://devhints.io/react) - Devhints
 
 ### Nextjs
  - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
