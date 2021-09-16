@@ -36,6 +36,7 @@
     
 
 ### React
+ - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
  - [React Cheatsheet](https://devhints.io/react) - Devhints
 
 ### Nextjs
