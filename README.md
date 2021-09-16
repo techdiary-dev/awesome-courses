@@ -69,6 +69,7 @@
 ### Nodejs
 - [The Node.js Master Class - No Frameworks, No NPM, No Dependencies](https://www.skillshare.com/classes/The-Node-js-Master-Class-No-Frameworks-No-NPM-No-Dependencies/187976462) - pirple.com
 - [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) - Andrew Mead
+- [Node JS Tutorial Bangla for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn with Sumit
 
 ### Express
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) - By jonas.io
