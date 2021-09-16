@@ -48,7 +48,8 @@
 - [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Stephen Grider
 
 ### Vue
-> Waiting for contributor
+- [Vue docs (Recommended)](https://v3.vuejs.org/guide/introduction.html) - vuejs.org
+- [Vue js course for beginners [2021 Tutorial]](https://youtu.be/FXpIoQ_rT_c) - freeCodeCamp
 
 ### Nuxt
 > Waiting for contributor
