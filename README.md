@@ -1,5 +1,8 @@
 # Awesome Courses [![Awesome](awesome.svg)](https://github.com/techdiary-dev/awesome-courses)
 
+এই awesome তালিকায় আপনি পেয়ে যাবেন পৃথিবীর সেরা কোর্স লিস্ট গুলো আপনার পছন্দ অনুযায়ী টেকনোলজি হিসেবে । অথবা আপ্নিও শেয়ার করতে পারেন আপনার দেখা বেস্ট কোর্সটিকে এখানে ।
+
+
 ### Table of Contents
 - Front-end Development
   - Frontend Framework/library
