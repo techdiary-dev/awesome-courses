@@ -30,7 +30,7 @@
     
 
 ### React
-> Waiting for contributor
+- [Learn with sumit react tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
 
 ### Nextjs
 > Waiting for contributor
