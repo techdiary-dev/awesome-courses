@@ -35,12 +35,11 @@
     - [Flask](#flask)
 
 ### React
-
+- [Learn with sumit react tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
 - [React Cheatsheet](https://devhints.io/react) - Devhints
 
 ### Nextjs
-
 - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
 - [Introduction to Next.js](https://frontendmasters.com/courses/next-js/) - Scott Moss (Frontend Master)
 - [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
