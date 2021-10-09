@@ -30,8 +30,9 @@
     
 
 ### React
-- [Learn with sumit react tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
-
+- [React JS Tutorial Bangla Series for Beginners | Think in a React way](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
+- 
+- [React JS Tutorial Bangla Series for Beginners | Think in a React way](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
 ### Nextjs
 > Waiting for contributor
 
@@ -57,6 +58,8 @@
 - [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by jonas
 - [Es6.io](https://es6.io/) by wesbos
 - [beginnerjavascript.com](https://beginnerjavascript.com) by wesbos
+- [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) by Sumit Saha
+- [Think in a JavaScript way in Bangla ( বাংলা ) - Bangla JavaScript Tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq) by Sumit Saha
 
 ### DevOps
 > Waiting for contributor
