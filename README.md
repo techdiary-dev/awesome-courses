@@ -115,8 +115,8 @@
 > Waiting for contributor
 
 ### Laravel
-
-- [Laracast](https://laracast/com)
+- [Laracast](https://laracast.com)
+- [Code course](https://codecourse.com/)
 
 ### Django
 
