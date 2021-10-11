@@ -78,6 +78,7 @@
 - [beginnerjavascript.com](https://beginnerjavascript.com) - wesbos
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Javascript Algorithm & Data structure](https://www.youtube.com/watch?v=gqb9Hp5eQjk&list=PLUdBKxH65BreTXN8fVhJe2LokGFiO8szx) by Zonayed Ahmed
+- [Javascript bangla tuorial](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
 
 ### DevOps
 
