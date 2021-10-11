@@ -76,6 +76,7 @@
 - [Es6.io](https://es6.io/) - wesbos
 - [beginnerjavascript.com](https://beginnerjavascript.com) - wesbos
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [Javascript Algorithm & Data structure](https://www.youtube.com/watch?v=gqb9Hp5eQjk&list=PLUdBKxH65BreTXN8fVhJe2LokGFiO8szx) by Zonayed Ahmed
 
 ### DevOps
 
