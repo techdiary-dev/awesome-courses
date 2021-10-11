@@ -1,4 +1,6 @@
-# Awesome Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Courses [![Awesome](awesome.svg)](https://github.com/techdiary-dev/awesome-courses)
+
+এই awesome তালিকায় আপনি পেয়ে যাবেন পৃথিবীর সেরা কোর্স লিস্ট গুলো আপনার পছন্দ অনুযায়ী টেকনোলজি হিসেবে । অথবা আপনি শেয়ার করতে পারেন আপনার দেখা বেস্ট কোর্সটিকে এখানে ।
 
 ### Table of Contents
 - Front-end Development
@@ -31,8 +33,11 @@
 
 ### React
 - [React JS Tutorial Bangla Series for Beginners | Think in a React way](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
-- 
-- [React JS Tutorial Bangla Series for Beginners | Think in a React way](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
+- [Learn with sumit react tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
+- [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
+- [React Cheatsheet](https://devhints.io/react) - Devhints
+- [React tutorial bangla](https://www.youtube.com/watch?v=0qQLwaJKSC4&list=PLkyGuIcLcmx2abvUMewDtJf_jHjrX__0C) by Rabbil Hasan
+
 ### Nextjs
 > Waiting for contributor
 
@@ -91,8 +96,8 @@
 
 
 ### Laravel
-> Waiting for contributor
-
+- [Laracast](https://laracast.com)
+- [Code course](https://codecourse.com/)
 
 ### Django
 > Waiting for contributor
