@@ -38,6 +38,7 @@
 - [Learn with sumit react tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
 - [React Cheatsheet](https://devhints.io/react) - Devhints
+- [React tutorial bangla](https://www.youtube.com/watch?v=0qQLwaJKSC4&list=PLkyGuIcLcmx2abvUMewDtJf_jHjrX__0C) by Rabbil Hasan
 
 ### Nextjs
 - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
