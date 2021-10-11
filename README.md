@@ -69,6 +69,7 @@
 ### UI Design
 
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - Jonas Schmedtmann
+- [UX/UI Design](https://www.youtube.com/watch?v=M034-Cmpu70&list=PLrlBLFXspMS1sv7ROlD5-Hns_42eKIFul) - RR Foundation
 
 ### Javascript
 
