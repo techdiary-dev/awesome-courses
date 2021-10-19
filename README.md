@@ -35,10 +35,14 @@
     - [Flask](#flask)
 
 ### React
-- [Learn with sumit react tutorial](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by sumit saha
+- [Learn With Sumit React Tutorial (Bangla)](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by Sumit Saha
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
 - [React Cheatsheet](https://devhints.io/react) - Devhints
-- [React tutorial bangla](https://www.youtube.com/watch?v=0qQLwaJKSC4&list=PLkyGuIcLcmx2abvUMewDtJf_jHjrX__0C) by Rabbil Hasan
+- [React Tutorial Bangla](https://www.youtube.com/watch?v=0qQLwaJKSC4&list=PLkyGuIcLcmx2abvUMewDtJf_jHjrX__0C) by Rabbil Hasan
+- [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) by Codevolution
+- [React Context and Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) by The Net Ninja
+- [React Render Tutorial](https://www.youtube.com/watch?v=YP2f-ErXG_M&list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t) by Codevolution
+- [Modern React With Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider
 
 ### Nextjs
 - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
@@ -78,7 +82,8 @@
 - [beginnerjavascript.com](https://beginnerjavascript.com) - wesbos
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Javascript Algorithm & Data structure](https://www.youtube.com/watch?v=gqb9Hp5eQjk&list=PLUdBKxH65BreTXN8fVhJe2LokGFiO8szx) by Zonayed Ahmed
-- [Javascript bangla tuorial](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
+- [Javascript Bangla Tutorial](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
+- [Javascript Algorithm & Data Structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) - FreeCodeCamp
 
 ### DevOps
 
@@ -89,6 +94,7 @@
 - [The Node.js Master Class - No Frameworks, No NPM, No Dependencies](https://www.skillshare.com/classes/The-Node-js-Master-Class-No-Frameworks-No-NPM-No-Dependencies/187976462) - pirple.com
 - [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) - Andrew Mead
 - [Node JS Tutorial Bangla for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn with Sumit
+- [Learn And Understand NodeJS](https://www.youtube.com/watch?v=Rhu8hegMDi4&list=PL_rW02ayr6eMLu3Dyzwf9lAJU60m77Vqi) - Bakhrom Batirov
 
 ### Express
 
