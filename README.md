@@ -43,8 +43,10 @@
 - [React Context and Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) by The Net Ninja
 - [React Render Tutorial](https://www.youtube.com/watch?v=YP2f-ErXG_M&list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t) by Codevolution
 - [Modern React With Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider
+- [Build Web Apps with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/) by The Net Ninja (Shaun Pelling)
 
 ### Nextjs
+- [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
 - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
 - [Introduction to Next.js](https://frontendmasters.com/courses/next-js/) - Scott Moss (Frontend Master)
 - [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
