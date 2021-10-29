@@ -87,6 +87,10 @@
 - [Javascript Bangla Tutorial](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
 - [Javascript Algorithm & Data Structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) - FreeCodeCamp
 
+### Full Stack (Javascript)
+
+- [100 Days Of Code: The Complete Web Development Bootcamp 2022](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/) - Maximilian Schwarzmüller & Manuel Lorenz
+
 ### DevOps
 
 - [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) - Stephen Grider
