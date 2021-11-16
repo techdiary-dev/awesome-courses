@@ -134,6 +134,7 @@
 ### Laravel
 - [Laracast](https://laracast.com)
 - [Code course](https://codecourse.com/)
+- [PHP Laravel Framework](https://w3programmers.com/bangla/category/php-laravel-framework) - Masud Alam
 
 
 ### Django
@@ -145,3 +146,10 @@
 
 - [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
 - [The Ultimate Flask Course](https://www.udemy.com/course/the-ultimate-flask-course/) - By Anthony Herbert
+
+### Python
+- [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
+- [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
+- [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+- [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
+- [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
