@@ -134,6 +134,7 @@
 ### Laravel
 - [Laracast](https://laracast.com)
 - [Code course](https://codecourse.com/)
+- [PHP Laravel Framework](https://w3programmers.com/bangla/category/php-laravel-framework) - Masud Alam
 
 
 ### Django
@@ -145,3 +146,18 @@
 
 - [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
 - [The Ultimate Flask Course](https://www.udemy.com/course/the-ultimate-flask-course/) - By Anthony Herbert
+
+### Python
+- [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
+- [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
+- [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+- [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
+- [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+
+### Android
+
+- [Android Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5) - Anisul Islam
+- [Android Firebase Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-) - Anisul Islam
+- [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
+- [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
+- [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
