@@ -44,6 +44,9 @@
 - [React Render Tutorial](https://www.youtube.com/watch?v=YP2f-ErXG_M&list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t) by Codevolution
 - [Modern React With Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider
 - [Build Web Apps with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/) by The Net Ninja (Shaun Pelling)
+- [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
+- [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
+- [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
 
 ### Nextjs
 - [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
@@ -71,6 +74,7 @@
 ### Svelte
 
 - [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) - Maximilian Schwarzmüller
+- [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner 
 
 ### UI Design
 
@@ -161,3 +165,27 @@
 - [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
 - [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 - [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
+
+### C Sharp
+
+- [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
+- [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
+- [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
+
+### Git
+
+- [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
+- [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
+- [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
+- [Git Bangla Basic Tutorial](https://iishanto.com/git-bangla-tutorial/) - Sharif Hasan
+
+### OOP
+
+- [Java and OOO. Learn Object Oriented with Real Example](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM) - Stack Learner
+- [Java and OOP Basics](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB5kP3uxERI1rdrdrNifNwJ) - Stack Learner
+- [Java and OOP: Java Built in Classes and Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBNvGFN6eIre7xjfnb6aVfB) - Stack Learner
+- [Object Oriented Programming Main Theory in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG) - Stack Learner
+
+### TypeScript
+
+- [TypeScript: All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO) - Stack Learner
