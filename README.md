@@ -189,6 +189,8 @@
 ### TypeScript
 
 - [TypeScript: All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO) - Stack Learner
+- [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) - Stephen Grider
+- [Typescript: For begainner](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) - Netninja
 
 ### C Sharp
 
