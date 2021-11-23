@@ -168,14 +168,6 @@
 ### SQL
 - [Complete SQL Mastery](https://codewithmosh.com/p/complete-sql-mastery) - Mosh Hamedani
 
-### Mongoose
-> Waiting for contributor
-
-### Prisma2
-> Waiting for contributor
-
-### Typeorm
-> Waiting for contributor
-
-### Sequilize
-> Waiting for contributor
+### MongoDB
+- [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/) - Stephen Grider
+- [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) - Maximilian Schwarzmüller
