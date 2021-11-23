@@ -143,7 +143,7 @@
 - [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
 
 ### Git
-
+- [The Ultimate Git Mastery Course](https://codewithmosh.com/p/the-ultimate-git-course) - Mosh Hamedani
 - [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
 - [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
 - [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
