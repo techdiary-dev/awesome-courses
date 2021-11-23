@@ -89,22 +89,6 @@
 
 > Waiting for contributor
 
-### Mongoose
-
-> Waiting for contributor
-
-### Prisma2
-
-> Waiting for contributor
-
-### Typeorm
-
-> Waiting for contributor
-
-### Sequilize
-
-> Waiting for contributor
-
 ### Laravel
 - [Laracast](https://laracast.com)
 - [Code course](https://codecourse.com/)
@@ -177,4 +161,21 @@
 
 ### C++
 
-* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+- [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+## Database/ORM
+
+### SQL
+- [Complete SQL Mastery](https://codewithmosh.com/p/complete-sql-mastery) - Mosh Hamedani
+
+### Mongoose
+> Waiting for contributor
+
+### Prisma2
+> Waiting for contributor
+
+### Typeorm
+> Waiting for contributor
+
+### Sequilize
+> Waiting for contributor
