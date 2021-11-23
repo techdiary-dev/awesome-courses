@@ -16,17 +16,17 @@
 - [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 - [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
 
-### Nextjs
-- [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
-- [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
-- [Introduction to Next.js](https://frontendmasters.com/courses/next-js/) - Scott Moss (Frontend Master)
-- [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
-
 ### React Native
 - [The Ultimate React Native Series](https://codewithmosh.com/p/the-ultimate-react-native-course) - Mosh Hamedani
 - [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Stephen Grider
 - [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced) - Stephen Grider
 - [The complete React Native course](https://www.udemy.com/course/the-complete-react-native-course-create-beautiful-apps/) - Coding Revolution
+
+### Nextjs
+- [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
+- [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
+- [Introduction to Next.js](https://frontendmasters.com/courses/next-js/) - Scott Moss (Frontend Master)
+- [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
 
 ### Vue
 
