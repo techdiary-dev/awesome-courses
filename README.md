@@ -2,38 +2,6 @@
 
 এই awesome তালিকায় আপনি পেয়ে যাবেন পৃথিবীর সেরা কোর্স লিস্ট গুলো আপনার পছন্দ অনুযায়ী টেকনোলজি হিসেবে । অথবা আপনি শেয়ার করতে পারেন আপনার দেখা বেস্ট কোর্সটিকে এখানে ।
 
-### Table of Contents
-
-- Front-end Development
-  - Frontend Framework/library
-    - [React](#react)
-      - [Nextjs](#nextjs)
-      - [Gatsby](#gatsby)
-      - [React Native](#react-native)
-    - [Vue](#vue)
-    - [Nuxt](#nuxt)
-    - [Angular](#angular)
-    - [Svelte](#svelte)
-  - [UI Design](#ui-design)
-  - [Javascript](#javascript)
-- [DevOps](#devops)
-- Backend
-  - [Nodejs](#nodejs)
-    - Frameworks
-      - [Express](#express)
-      - [Adonis](#adonis)
-      - [Nestjs](#nestjs)
-    - ORM
-      - [Mongoose](#mongoose)
-      - [Prisma2](#prisma2)
-      - [Typeorm](#typeorm)
-      - [Sequilize](#sequilize)
-  - Php
-    - [Laravel](#laravel)
-  - Python
-    - [Django](#laravel)
-    - [Flask](#flask)
-
 ### React
 - [Learn With Sumit React Tutorial (Bangla)](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by Sumit Saha
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
