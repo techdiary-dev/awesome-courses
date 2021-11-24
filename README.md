@@ -206,3 +206,18 @@
 ### C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+
+### jQuery
+
+- [jQuery Bangla Series for Beginners](https://www.youtube.com/playlist list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB) - Anisul Islam
+
+### Kotlin
+
+- [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
+
+
+### Machine Learning
+
+- [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan
+- [হাতে কলমে মেশিন লার্নিং ১](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan
