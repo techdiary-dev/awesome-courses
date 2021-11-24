@@ -2,38 +2,6 @@
 
 এই awesome তালিকায় আপনি পেয়ে যাবেন পৃথিবীর সেরা কোর্স লিস্ট গুলো আপনার পছন্দ অনুযায়ী টেকনোলজি হিসেবে । অথবা আপনি শেয়ার করতে পারেন আপনার দেখা বেস্ট কোর্সটিকে এখানে ।
 
-### Table of Contents
-
-- Front-end Development
-  - Frontend Framework/library
-    - [React](#react)
-      - [Nextjs](#nextjs)
-      - [Gatsby](#gatsby)
-      - [React Native](#react-native)
-    - [Vue](#vue)
-    - [Nuxt](#nuxt)
-    - [Angular](#angular)
-    - [Svelte](#svelte)
-  - [UI Design](#ui-design)
-  - [Javascript](#javascript)
-- [DevOps](#devops)
-- Backend
-  - [Nodejs](#nodejs)
-    - Frameworks
-      - [Express](#express)
-      - [Adonis](#adonis)
-      - [Nestjs](#nestjs)
-    - ORM
-      - [Mongoose](#mongoose)
-      - [Prisma2](#prisma2)
-      - [Typeorm](#typeorm)
-      - [Sequilize](#sequilize)
-  - Php
-    - [Laravel](#laravel)
-  - Python
-    - [Django](#laravel)
-    - [Flask](#flask)
-
 ### React
 - [Learn With Sumit React Tutorial (Bangla)](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by Sumit Saha
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
@@ -48,15 +16,17 @@
 - [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 - [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
 
+### React Native
+- [The Ultimate React Native Series](https://codewithmosh.com/p/the-ultimate-react-native-course) - Mosh Hamedani
+- [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Stephen Grider
+- [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced) - Stephen Grider
+- [The complete React Native course](https://www.udemy.com/course/the-complete-react-native-course-create-beautiful-apps/) - Coding Revolution
+
 ### Nextjs
 - [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
 - [NextJS up and running](https://www.udemy.com/course/nextjs-up-and-running/) - Atila Fassina
 - [Introduction to Next.js](https://frontendmasters.com/courses/next-js/) - Scott Moss (Frontend Master)
 - [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
-
-### React Native
-
-- [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Stephen Grider
 
 ### Vue
 
@@ -119,22 +89,6 @@
 
 > Waiting for contributor
 
-### Mongoose
-
-> Waiting for contributor
-
-### Prisma2
-
-> Waiting for contributor
-
-### Typeorm
-
-> Waiting for contributor
-
-### Sequilize
-
-> Waiting for contributor
-
 ### Laravel
 - [Laracast](https://laracast.com)
 - [Code course](https://codecourse.com/)
@@ -173,7 +127,7 @@
 - [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
 
 ### Git
-
+- [The Ultimate Git Mastery Course](https://codewithmosh.com/p/the-ultimate-git-course) - Mosh Hamedani
 - [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
 - [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
 - [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
@@ -189,6 +143,8 @@
 ### TypeScript
 
 - [TypeScript: All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO) - Stack Learner
+- [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) - Stephen Grider
+- [Typescript: For begainner](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) - Netninja
 
 ### C Sharp
 
@@ -205,7 +161,8 @@
 
 ### C++
 
-* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+- [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 
 ### jQuery
@@ -221,3 +178,15 @@
 
 - [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan
 - [হাতে কলমে মেশিন লার্নিং ১](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan
+=======
+- [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+## Database/ORM
+
+### SQL
+- [Complete SQL Mastery](https://codewithmosh.com/p/complete-sql-mastery) - Mosh Hamedani
+
+### MongoDB
+- [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/) - Stephen Grider
+- [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) - Maximilian Schwarzmüller
+
