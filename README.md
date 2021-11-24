@@ -147,38 +147,29 @@
 - [Typescript: For begainner](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) - Netninja
 
 ### C Sharp
-
 - [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 - [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
 - [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
 
 ### C
-
 - [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
 - [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 - [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
 - [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 ### C++
-
-
 - [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 
 ### jQuery
-
 - [jQuery Bangla Series for Beginners](https://www.youtube.com/playlist list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB) - Anisul Islam
 
 ### Kotlin
-
 - [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
 
-
 ### Machine Learning
-
 - [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan
 - [হাতে কলমে মেশিন লার্নিং ১](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan
-=======
 - [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 ## Database/ORM
@@ -189,4 +180,3 @@
 ### MongoDB
 - [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/) - Stephen Grider
 - [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) - Maximilian Schwarzmüller
-
