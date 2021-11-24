@@ -38,8 +38,7 @@
 > Waiting for contributor
 
 ### Angular
-
-> Waiting for contributor
+- [The Angular Firebase Project Course](https://fireship.io/courses/angular/) - fireship
 
 ### Svelte
 
