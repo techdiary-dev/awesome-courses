@@ -95,7 +95,8 @@
 
 
 ### Django
-
+- [The Ultimate Django Series: Part 1](https://codewithmosh.com/p/the-ultimate-django-part1) - Mosh Hamedani
+- [The Ultimate Django Series: Part 2](https://codewithmosh.com/p/the-ultimate-django-part2) - Mosh Hamedani
 - [Coding For Entrepreneuers - Projects](https://www.codingforentrepreneurs.com/projects) - Miguel Grinberg
 - [Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) - Pretty Printed
 - [Create Blog Project & Deployment in Linode+DigitalOcean+AWS](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
