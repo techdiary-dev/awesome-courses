@@ -104,7 +104,7 @@
 
 ### Flask
 
-- [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
+- [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial) - Miguel Grinberg
 - [The Ultimate Flask Course](https://www.udemy.com/course/the-ultimate-flask-course/) - By Anthony Herbert
 - [Create Blog Project & Deployment in Linux Server](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 
