@@ -98,11 +98,15 @@
 
 - [Coding For Entrepreneuers - Projects](https://www.codingforentrepreneurs.com/projects) - Miguel Grinberg
 - [Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) - Pretty Printed
+- [Create Blog Project & Deployment in Linode+DigitalOcean+AWS](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+- [Django Rest API with React](https://youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw) - Very Academy
+- [Interesting Django, JS Tricks](https://www.youtube.com/c/Pyplane) - PyPlane
 
 ### Flask
 
 - [Flask Mega Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
 - [The Ultimate Flask Course](https://www.udemy.com/course/the-ultimate-flask-course/) - By Anthony Herbert
+- [Create Blog Project & Deployment in Linux Server](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 
 ### Python
 - [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
