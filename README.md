@@ -174,7 +174,6 @@
 ### Machine Learning
 - [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan
 - [হাতে কলমে মেশিন লার্নিং ১](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan
-- [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 ## Database/ORM
 
@@ -184,3 +183,17 @@
 ### MongoDB
 - [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/) - Stephen Grider
 - [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) - Maximilian Schwarzmüller
+
+### MySQL
+
+- [Bangla MySQL Database Tutorials](https://www.youtube.com/playlist?list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4) - Delowar Jahan Imran, Training with Live Project (YouTube)
+- [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter (YouTube)
+- [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All (YouTube)
+- [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam (YouTube)
+
+
+### Visual Studio Code
+
+- [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
+
+
