@@ -196,4 +196,8 @@
 
 - [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
 
+### HTML
+
+- [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
+
 
