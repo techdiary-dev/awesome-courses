@@ -33,7 +33,7 @@
 - [Vue js course for beginners [2021 Tutorial]](https://youtu.be/FXpIoQ_rT_c) - freeCodeCamp
 
 ### Nuxt
-> Waiting for contributor
+- [Nuxt JS Crash Course](https://www.youtube.com/watch?v=Wdmi4k7sFzU) - Laith Harb
 
 ### Angular
 - [The Angular Firebase Project Course](https://fireship.io/courses/angular/) - fireship
@@ -83,11 +83,12 @@
 
 ### Adonis
 
-> Waiting for contributor
+- [AdonisJS Crash Course for Beginners](https://www.youtube.com/watch?v=4Xe4DUHka1o) - DesignCourse
 
 ### Nestjs
 
-> Waiting for contributor
+- [NestJS Crash Course - 2021](https://www.youtube.com/watch?v=S0R82Osg-Mk) - Laith Harb
+- [Nest.js Tutorial for Beginners](https://www.youtube.com/watch?v=1OZ2YnOba2o) - iGeek
 
 ### Laravel
 - [Laracast](https://laracast.com)
