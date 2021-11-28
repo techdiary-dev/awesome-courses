@@ -29,19 +29,16 @@
 - [Mastering Nextjs](https://masteringnextjs.com/) - Lee Robinson
 
 ### Vue
-
 - [Vue docs (Recommended)](https://v3.vuejs.org/guide/introduction.html) - vuejs.org
 - [Vue js course for beginners [2021 Tutorial]](https://youtu.be/FXpIoQ_rT_c) - freeCodeCamp
 
 ### Nuxt
-
 > Waiting for contributor
 
 ### Angular
 - [The Angular Firebase Project Course](https://fireship.io/courses/angular/) - fireship
 
 ### Svelte
-
 - [Svelte.js - The Complete Guide (incl. Sapper.js)](https://www.udemy.com/course/sveltejs-the-complete-guide/) - Maximilian Schwarzmüller
 - [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner 
 
@@ -50,8 +47,13 @@
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - Jonas Schmedtmann
 - [UX/UI Design](https://www.youtube.com/watch?v=M034-Cmpu70&list=PLrlBLFXspMS1sv7ROlD5-Hns_42eKIFul) - RR Foundation
 
-### Javascript
+### Visual Studio Code
+- [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
 
+### HTML
+- [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
+
+### Javascript
 - [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - jonas
 - [Es6.io](https://es6.io/) - wesbos
 - [beginnerjavascript.com](https://beginnerjavascript.com) - wesbos
@@ -61,7 +63,6 @@
 - [Javascript Algorithm & Data Structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) - FreeCodeCamp
 
 ### Full Stack (Javascript)
-
 - [100 Days Of Code: The Complete Web Development Bootcamp 2022](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/) - Maximilian Schwarzmüller & Manuel Lorenz
 
 ### DevOps
@@ -192,12 +193,6 @@
 - [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam (YouTube)
 
 
-### Visual Studio Code
 
-- [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
-
-### HTML
-
-- [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
 
 
