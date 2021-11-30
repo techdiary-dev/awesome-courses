@@ -31,6 +31,7 @@
 ### Vue
 - [Vue docs (Recommended)](https://v3.vuejs.org/guide/introduction.html) - vuejs.org
 - [Vue js course for beginners [2021 Tutorial]](https://youtu.be/FXpIoQ_rT_c) - freeCodeCamp
+- [Vue.js in Bangla](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 
 ### Nuxt
 - [Nuxt JS Crash Course](https://www.youtube.com/watch?v=Wdmi4k7sFzU) - Laith Harb
