@@ -194,12 +194,9 @@
 - [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam (YouTube)
 
 ### Flutter
-
+- [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/courses/enrolled/548873) - Angela Yu
+- [Flutter & Dart - The Complete Guide - 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) - Maximilian Schwarzmüller
+- [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/) - Stephen Grider
 - [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
 - [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
 - [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
-
-
-
-
-
