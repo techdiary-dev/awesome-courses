@@ -126,6 +126,14 @@
 - [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 - [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
 
+### Flutter
+- [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/courses/enrolled/548873) - Angela Yu
+- [Flutter & Dart - The Complete Guide - 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) - Maximilian Schwarzmüller
+- [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/) - Stephen Grider
+- [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
+- [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
+- [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
+
 ### C Sharp
 
 - [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
@@ -192,11 +200,3 @@
 - [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter (YouTube)
 - [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All (YouTube)
 - [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam (YouTube)
-
-### Flutter
-- [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/courses/enrolled/548873) - Angela Yu
-- [Flutter & Dart - The Complete Guide - 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) - Maximilian Schwarzmüller
-- [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/) - Stephen Grider
-- [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
-- [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
-- [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
