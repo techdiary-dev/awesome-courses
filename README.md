@@ -166,6 +166,7 @@
 
 ### C++
 - [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+- [C++ STL Bangla](https://www.youtube.com/watch?v=awY7oJ7wFhs&list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 
 
 ### jQuery
