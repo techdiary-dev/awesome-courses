@@ -15,6 +15,7 @@
 - [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
 - [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 - [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 ### React Native
 - [The Ultimate React Native Series](https://codewithmosh.com/p/the-ultimate-react-native-course) - Mosh Hamedani
