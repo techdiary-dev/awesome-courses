@@ -15,6 +15,7 @@
 - [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
 - [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 - [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - egghead.io
 
 ### React Native
 - [The Ultimate React Native Series](https://codewithmosh.com/p/the-ultimate-react-native-course) - Mosh Hamedani
@@ -31,6 +32,7 @@
 ### Vue
 - [Vue docs (Recommended)](https://v3.vuejs.org/guide/introduction.html) - vuejs.org
 - [Vue js course for beginners [2021 Tutorial]](https://youtu.be/FXpIoQ_rT_c) - freeCodeCamp
+- [Vue - The Complete Guide (w/ Router, Vuex, Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide) - Maximilian Schwarzmüller
 - [Vue.js in Bangla](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 
 ### Nuxt
@@ -130,6 +132,14 @@
 - [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 - [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
 
+### Flutter
+- [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/courses/enrolled/548873) - Angela Yu
+- [Flutter & Dart - The Complete Guide - 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) - Maximilian Schwarzmüller
+- [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/) - Stephen Grider
+- [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
+- [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
+- [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
+
 ### C Sharp
 
 - [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
@@ -210,6 +220,3 @@
 - [Learn Go Programming](https://www.youtube.com/watch?v=YS4e4q9oBaU) - freeCodeCamp
 - [Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
 - [Golang For Beginner](https://www.youtube.com/watch?v=1NF2LtWbA1g) - Daily Code Buffer
-
-
-
