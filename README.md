@@ -206,7 +206,10 @@
 - [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
 - [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
 
-
+### Go / Golang
+- [Learn Go Programming](https://www.youtube.com/watch?v=YS4e4q9oBaU) - freeCodeCamp
+- [Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
+- [Golang For Beginner](https://www.youtube.com/watch?v=1NF2LtWbA1g) - Daily Code Buffer
 
 
 
