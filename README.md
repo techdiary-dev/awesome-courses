@@ -74,6 +74,9 @@
 ### DevOps
 
 - [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) - Stephen Grider
+[DevOps Tutorial For Beginners](https://www.youtube.com/watch?v=hQcFE0RD0cQ) - edureka
+[DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) - freeCodeCamp
+[DevOps 101](https://www.udemy.com/course/devops-101-buddy/) -Udemy
 
 ### Nodejs
 
