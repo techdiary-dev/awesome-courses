@@ -122,10 +122,12 @@
 
 ### Python
 - [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
+- [Python Course](https://www.py4e.com/) - Charles Severance
 - [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 - [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 - [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 - [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+
 
 ### Android
 
