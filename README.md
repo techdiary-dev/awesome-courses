@@ -70,6 +70,11 @@
 
 ### Full Stack (Javascript)
 - [100 Days Of Code: The Complete Web Development Bootcamp 2022](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/) - Maximilian Schwarzmüller & Manuel Lorenz
+- [Full-stack Army - Complete MERN Stack Journey in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl) - Stack Learner
+
+### GraphQL 
+- [GraphQL from Ground Up](https://www.udemy.com/course/graphql-from-ground-up/) - Chimezie Enyinnaya (Udemy)
+- [The GraphQL Apollo (With ReactJS And MongoDB)](https://www.tutorialspoint.com/the-graphql-apollo-with-reactjs-and-mongodb/index.asp) - Tutorialspoint
 
 ### DevOps
 
