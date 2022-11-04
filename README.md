@@ -223,3 +223,7 @@
 - [Learn Go Programming](https://www.youtube.com/watch?v=YS4e4q9oBaU) - freeCodeCamp
 - [Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
 - [Golang For Beginner](https://www.youtube.com/watch?v=1NF2LtWbA1g) - Daily Code Buffer
+
+## Theory/Concept
+### SaaS (Software as a service)
+- [Architect SaaS Applications - Unique Challenges & Solutions](https://www.udemy.com/course/architect-saas-applications-unique-challenges-solutions) - V2 Maestros, LLC (Udemy)
